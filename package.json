@@ -1,0 +1,28 @@
+{
+  "name": "webdesign",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Showcase CSS & JavaScript designs using a single, simple html source",
+  "main": "build.coffee",
+  "scripts": {
+    "build": "coffee build.coffee",
+    "test": "coffee test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yucho/webdesign.git"
+  },
+  "keywords": [
+    "web",
+    "design"
+  ],
+  "author": "Yucho Ho <yucho.ho@gmail.com> (https://yuchoho.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yucho/webdesign/issues"
+  },
+  "homepage": "https://github.com/yucho/webdesign#readme",
+  "dependencies": {
+    "coffee": "^5.2.1"
+  }
+}
